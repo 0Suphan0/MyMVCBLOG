@@ -1,0 +1,12 @@
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\bin\Debug\net7.0\MyMVCBlogProject.Entity.deps.json
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\bin\Debug\net7.0\MyMVCBlogProject.Entity.dll
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\bin\Debug\net7.0\MyMVCBlogProject.Entity.pdb
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\MyMVCBlogProject.Entity.csproj.AssemblyReference.cache
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\MyMVCBlogProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\MyMVCBlogProject.Entity.AssemblyInfoInputs.cache
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\MyMVCBlogProject.Entity.AssemblyInfo.cs
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\MyMVCBlogProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\MyMVCBlogProject.Entity.dll
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\refint\MyMVCBlogProject.Entity.dll
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\MyMVCBlogProject.Entity.pdb
+C:\Users\yakut\OneDrive\Masaüstü\MyMVCBlogProject.Entity\obj\Debug\net7.0\ref\MyMVCBlogProject.Entity.dll
